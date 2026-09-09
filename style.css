@@ -1,0 +1,18 @@
+/* เลือกแท็กหรือคลาสที่ต้องการตกแต่ง */
+body {
+  background-color: #f4f4f4; /* สีพื้นหลังเว็บ */
+  font-family: sans-serif, serif; /* รูปแบบตัวอักษร */
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #333333; /* สีของหัวข้อ */
+  font-size: 24px; /* ขนาดตัวอักษร */
+  text-align: center; /* จัดข้อความให้อยู่ตรงกลาง */
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+}
